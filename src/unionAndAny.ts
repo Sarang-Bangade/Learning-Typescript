@@ -1,4 +1,9 @@
+/* We can make our custom variable that can be sutaible for both the 
+variables or many as per the examples given below 
 
+We can also set what data variable can hold 
+
+*/
 
 let subs: number | string ="1M";
 let apiRequestStatus: "pending" | "Success" | "error" = "error";
@@ -17,7 +22,6 @@ for (let order of orders){
     }
     currentorder = "11";
 }
-
 console.log(currentorder)
 
 

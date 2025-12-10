@@ -3,7 +3,7 @@
     In typescript we dont have to tell the every datatype to assign
     in variable some of them it takes by itself which is known as "inference"
 
-    and
+    and 
 
     in "Annotation" we will tell means we will assign the type manually
 */

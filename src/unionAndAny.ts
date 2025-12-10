@@ -16,7 +16,7 @@ let currentorder: string | undefined;
 
 for (let order of orders){
 
-    if (order === "300"){
+    if (order === "12"){
         currentorder = order;
         break;
     }

@@ -1,7 +1,7 @@
 
 // It is simple as javascript but only the changes lies is..
 
-/* define the type of every variable which needs to be assigned and also
+/* defines the type of every variable which needs to be assigned and also
    the return type of a function "(name: string)" instead of just "name" in the parameter
     and also (name:string) : "string" the type that the function will return
     the return statements is only return in backticks 

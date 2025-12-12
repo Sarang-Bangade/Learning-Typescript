@@ -5,9 +5,11 @@ We can also set what data variable can hold
 
 */
 
-let subs: number | string ="1M"; /* here subs is the variable and Number and 
+let subs: number | string ="1M";     /* here subs is the variable and Number and 
 String is the type of vaiables that a single variable sub can hold*/
-let apiRequestStatus: "pending" | "Success" | "error" = "error";
+
+
+let apiRequestStatus: "pending" | "Success" | "error" = "error";  /* this is union */
 let airLineSeat: "aisle" | "window" | "middle" = "aisle";
 
 airLineSeat = "aisle";

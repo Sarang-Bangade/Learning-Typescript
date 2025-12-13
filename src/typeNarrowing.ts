@@ -1,5 +1,5 @@
 
-/* The type gets distributed and it knows what type it is*/
+/* The type gets distributed and it knows what type it is */
 
 
 function getChai(kind :string | number){

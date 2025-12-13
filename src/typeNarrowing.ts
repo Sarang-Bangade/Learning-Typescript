@@ -1,3 +1,7 @@
+
+/* The type gets distributed and it knows what type it is*/
+
+
 function getChai(kind :string | number){
 
     if(typeof kind == 'string'){
@@ -6,7 +10,6 @@ function getChai(kind :string | number){
 
     return `Chai order : ${kind}`
 }
-
 
 function serveChai (msg?: string){
 

@@ -8,8 +8,6 @@ function getChai(kind :string | number){
     return `Chai order : ${kind}`
 }
 
-
-
 function serveChai (msg?: string){
     if (msg){
         return `Serving ${msg}`;
